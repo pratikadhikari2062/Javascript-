@@ -1,0 +1,1 @@
+Variuable is a contianer its store a data thats a modify and access troughout your program
