@@ -1,0 +1,1 @@
+string concatenation is a two or more string combine and joind to text  thats is a string concatenation
