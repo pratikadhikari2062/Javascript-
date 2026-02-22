@@ -1,0 +1,3 @@
+console.log() is a powerful tool in a used display js program 
+such as console.log("hello");
+output=hello
